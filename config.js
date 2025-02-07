@@ -118,6 +118,10 @@ const config = {
             file: "data/KMLs/Jacksonville.kml"
         },
         {
+            name: "Kansas City",
+            file: "data/KMLs/Kansas_City.kml"
+        },
+        {
             name: "Las Vegas",
             file: "data/KMLs/Las_Vegas.kml"
         },
