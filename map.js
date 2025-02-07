@@ -1323,7 +1323,7 @@ async function loadLocationPoints() {
         // Load KML files
         const preferredKml = await fetch('data/preferred_locations.kml').then(res => res.text()).then(text => new DOMParser().parseFromString(text, 'text/xml'));
         const otherKml = await fetch('data/other_locations.kml').then(res => res.text()).then(text => new DOMParser().parseFromString(text, 'text/xml'));
-        const familyKml = await fetch('data/family_locations.kml').then(res => res.text()).then(text => new DOMParser().parseFromString(text, 'text/xml'));
+        const familyKml = await fetch('data/redline_athletics_locations.kml').then(res => res.text()).then(text => new DOMParser().parseFromString(text, 'text/xml'));
 
         // Process locations
         processLocations(preferredKml, 'preferred', '#FF0000');
