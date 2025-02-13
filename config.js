@@ -26,6 +26,10 @@ const config = {
             file: "data/KMLs/Denver.kml"
         },
         {
+            name: "Fort Lauderdale",
+            file: "data/KMLs/West_Palm_Beach.kml"
+        },
+        {
             name: "Fort Worth",
             file: "data/KMLs/Fort_Worth.kml"
         },
@@ -64,11 +68,8 @@ const config = {
         {
             name: "Washington DC",
             file: "data/KMLs/Washington_DC.kml"
-        },
-        {
-            name: "West Palm Beach",
-            file: "data/KMLs/West_Palm_Beach.kml"
         }
+        
 ],
     defaultColors: {
         '250k': {
