@@ -16,21 +16,6 @@
       </IconStyle>
     </Style>
     <Placemark>
-      <name>Anaheim/Fullerton</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>Anaheim/Fullerton</h3>
-        <p><strong>Address:</strong> 149 E Orangethorpe Ave,, Anaheim, CA 92801</p>
-        <p><strong>Region:</strong> Los Angeles</p>
-        
-        
-        <p><strong>Type:</strong> Preferred Target</p>
-      ]]></description>
-      <Point>
-        <coordinates>-117.91601,33.859956</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Buffalo Grove</name>
       <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
@@ -61,21 +46,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Coppell</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>Coppell</h3>
-        <p><strong>Address:</strong> 801 Hammond Street, Suite 100, Coppell, Texas 75019</p>
-        <p><strong>Region:</strong> Dallas</p>
-        
-        
-        <p><strong>Type:</strong> Preferred Target</p>
-      ]]></description>
-      <Point>
-        <coordinates>-97.009045,32.95132</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Cypress</name>
       <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
@@ -88,36 +58,6 @@
       ]]></description>
       <Point>
         <coordinates>-118.03075,33.82921</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Denver East</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>Denver East</h3>
-        <p><strong>Address:</strong> 4444 Forest St, Denver, CO</p>
-        <p><strong>Region:</strong> Denver</p>
-        
-        
-        <p><strong>Type:</strong> Preferred Target</p>
-      ]]></description>
-      <Point>
-        <coordinates>-104.926699,39.778117</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Farmington Hills</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>Farmington Hills</h3>
-        <p><strong>Address:</strong> 24800 N. Industrial Dr, Farmington Hills, MI 48335</p>
-        <p><strong>Region:</strong> Detroit</p>
-        
-        
-        <p><strong>Type:</strong> Preferred Target</p>
-      ]]></description>
-      <Point>
-        <coordinates>-83.425036,42.474107</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -166,21 +106,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Idlewild</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>Idlewild</h3>
-        <p><strong>Address:</strong> 6420 Albemarle Rd., Charlotte, NC 28212</p>
-        <p><strong>Region:</strong> Charlotte</p>
-        
-        
-        <p><strong>Type:</strong> Preferred Target</p>
-      ]]></description>
-      <Point>
-        <coordinates>-80.735946,35.201489</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Keller</name>
       <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
@@ -223,21 +148,6 @@
       ]]></description>
       <Point>
         <coordinates>-117.715414,33.635036</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Lenexa</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>Lenexa</h3>
-        <p><strong>Address:</strong> 14851 W 101st Terrace, Lenexa, KS 66215</p>
-        <p><strong>Region:</strong> Kansas City</p>
-        
-        
-        <p><strong>Type:</strong> Preferred Target</p>
-      ]]></description>
-      <Point>
-        <coordinates>-94.756962,38.94412</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -316,21 +226,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>San Marcos</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>San Marcos</h3>
-        <p><strong>Address:</strong> 2937 Norman Strasse Rd, San Marcos, CA 92069</p>
-        <p><strong>Region:</strong> San Diego</p>
-        
-        
-        <p><strong>Type:</strong> Preferred Target</p>
-      ]]></description>
-      <Point>
-        <coordinates>-117.202322,33.159895</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Scottsdale</name>
       <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
@@ -343,51 +238,6 @@
       ]]></description>
       <Point>
         <coordinates>-111.90919,33.612672</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Sugar Land</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>Sugar Land</h3>
-        <p><strong>Address:</strong> 826 Summer Park Dr. Suite# 800, Stafford, TX 77477</p>
-        <p><strong>Region:</strong> Houston</p>
-        
-        
-        <p><strong>Type:</strong> Preferred Target</p>
-      ]]></description>
-      <Point>
-        <coordinates>-95.569611,29.608362</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Sutton Square</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>Sutton Square</h3>
-        <p><strong>Address:</strong> 6325 Falls of Neuse Rd, Suite #24, Raleigh, NC 27615</p>
-        <p><strong>Region:</strong> Raleigh</p>
-        
-        
-        <p><strong>Type:</strong> Preferred Target</p>
-      ]]></description>
-      <Point>
-        <coordinates>-78.622929,35.86895</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Webster</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>Webster</h3>
-        <p><strong>Address:</strong> 1425 Atlantis Drive, Suite G, Webster, TX 77598</p>
-        <p><strong>Region:</strong> Houston</p>
-        
-        
-        <p><strong>Type:</strong> Preferred Target</p>
-      ]]></description>
-      <Point>
-        <coordinates>-95.137938,29.527089</coordinates>
       </Point>
     </Placemark>
     <Placemark>
